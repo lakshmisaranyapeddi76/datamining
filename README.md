@@ -1,7 +1,8 @@
 # datamining
-**Anime Movie Recommendation using K-means Clustering 
 
-**Data Mining Project Spring 2022
+**Anime Movie Recommendation using K-means Clustering**
+
+**Data Mining Project Spring 2022**
 
 These programs expect Python3 environment (you may want to use a virtualenv).
 
@@ -11,8 +12,7 @@ To install package requirements please run
 
 K-means clustering
 
-**Please run the following file to see the results of my project 
-**
+**Please run the following file to see the results of my project**
 
 python3 AnimeMovieRecommendation.py
 
