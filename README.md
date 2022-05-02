@@ -20,4 +20,4 @@ You can also find the following datset files required to run  this project and y
 
 anime.csv
 
-rating.csv
+rating.csv - note - As this file is too large I have compressed this file and you can unzip and use it as it was before
